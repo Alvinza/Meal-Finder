@@ -28,14 +28,14 @@ A modern, responsive meal discovery application built with React and Tailwind CS
 ### Prerequisites
 
 Make sure you have Node.js installed on your machine:
-- Node.js (version 14 or higher)
+- Node.js 
 - npm or yarn package manager
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Alvinza/Meal-Finder.git
    cd meal-finder-app
    ```
 
@@ -61,23 +61,6 @@ Make sure you have Node.js installed on your machine:
 2. **Browse Results**: Click on any meal card to view detailed information
 3. **View Recipe Details**: Explore ingredients, instructions, and watch cooking videos
 4. **Responsive Experience**: Use the app seamlessly on any device
-
-
-
-## 🌐 Deployment
-
-To deploy this static frontend application:
-
-1. Build the project:
-   ```bash
-   npm run build
-   ```
-
-2. Deploy the `build` folder to your preferred hosting service:
-   - Netlify
-   - Vercel
-   - GitHub Pages
-   - Firebase Hosting
 
 
 
