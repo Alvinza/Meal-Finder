@@ -5,6 +5,11 @@ A modern, responsive meal discovery application built with React and Tailwind CS
 ## 🌐 Live Demo
 
 **[View Live App](https://meal-finder-seven-wheat.vercel.app/)**
+## 📸 Screenshot
+
+![App Screenshot](./src/assets/screenshot.png)
+
+---
 
 ## 🍽️ Features
 
